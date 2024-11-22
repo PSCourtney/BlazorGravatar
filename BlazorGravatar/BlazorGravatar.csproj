@@ -9,6 +9,7 @@
     <Description>
       A lightweight Blazor component for rendering Gravatar images based on email addresses. BlazorGravatar allows you to easily fetch and display Gravatar profile pictures with support for customizable image size, default fallback images, alt text, CSS classes, and rating levels. Perfect for personalizing user interfaces with profile images.
     </Description>
+    <PackageTags>Blazor;Components;Gravatar;Avatar</PackageTags>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
