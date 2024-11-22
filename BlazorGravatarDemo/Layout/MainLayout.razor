@@ -1,12 +1,22 @@
 ﻿@inherits LayoutComponentBase
+@using BlazorGravatar;
+
 <div class="page">
     <div class="sidebar">
         <NavMenu />
     </div>
-
+    <style>
+                .avatar-circle {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+    </style>
     <main>
         <div class="top-row px-4">
             <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
+            <BlazorGravatar Email="jitewaboh@lagify.com" Class="avatar-circle ml-auto" Size="50"></BlazorGravatar>
         </div>
 
         <article class="content px-4">
