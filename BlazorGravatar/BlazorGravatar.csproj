@@ -11,6 +11,7 @@
     </Description>
     <PackageTags>Blazor;Components;Gravatar;Avatar</PackageTags>
     <Nullable>enable</Nullable>
+    <PackageIconUrl>https://i.imgur.com/BsILWrL.jpeg</PackageIconUrl>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
