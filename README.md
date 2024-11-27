@@ -1,5 +1,9 @@
 # BlazorGravatar https://github.com/PSCourtney/BlazorGravatar
 
+![NuGet Downloads](https://img.shields.io/nuget/dt/BlazorGravatar?label=NuGet%20Downloads&color=blue) 
+![License](https://img.shields.io/github/license/PSCourtney/BlazorGravatar)
+![Last Commit](https://img.shields.io/github/last-commit/PSCourtney/BlazorGravatar)
+
 The **BlazorGravatar** library is a Blazor component that generates Gravatar profile images based on email addresses. It supports customizable image sizes, classes, alt text, and fallback options for default images and ratings.
 
 ## 📒 Features
